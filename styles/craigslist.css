@@ -1,0 +1,20 @@
+#board {
+    display: grid;
+    grid-template-columns: 25% 60% 15%;
+    border: 1px solid black;
+}
+
+#right-col {
+    background-color: aqua;
+}
+
+#left-col {
+    background-color: beige;
+}
+
+#middle-col {
+    background-color: blue;
+}
+
+#page-header {
+}
